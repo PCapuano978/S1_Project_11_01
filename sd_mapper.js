@@ -11,7 +11,7 @@
 
 */
 
-// Declaring our first variable.
+// Declaring our first variable where it will display "thisTime" as whatever date it currently is.
 var thisTime = new Date();
 
 // Saving the text of "thisTime" into "timeStr".
